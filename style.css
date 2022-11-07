@@ -1,0 +1,14 @@
+body{background-color: black; color: white; font-family:'Times New Roman', Times, serif
+    ;}
+.container{
+    display: flex; justify-content: center;
+}
+.content1{font-size: 50px; border: solid; border-color: white;}
+.content1 p{font-size: 20px; padding-left: 300px; margin-top: -80px;}
+nav{text-decoration-color: white; padding: 10px; margin: 10px; padding-left: 140px;}
+nav a:visited{color: white;}
+nav a:link{text-decoration: none;}
+nav a:hover{color: #999; font-weight: bold;}
+.special{padding-left:67px; font-size: 125px;}
+.title{padding-right: 290px;}
+article img{width: 600px; padding-left: 80px; margin-bottom: 10px;}

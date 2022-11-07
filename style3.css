@@ -1,0 +1,15 @@
+
+body{color: black; font-family: 'Times New Roman', Times, serif;}
+img{width: 100%;}
+.jam{max-width: 600px; margin: 15px;}
+.heading{padding-left:230px ;}
+.heading2{padding-left: 230px;}
+.list{padding-left: 50px;}
+.list2{padding-left: 50px;}
+.column1{float: left;}
+.column2{float: right; margin-right: 50px; max-width: 600px;}
+footer ul{list-style: none; display: flex; justify-content: space-around; padding-top: 35px; font-size: larger; text-decoration: none;}
+footer li{background-color: white;}
+footer{background-color: #999;  color: #999; max-height: 250px; margin-top: 300px; height: 100px;}
+footer a:hover{color: black; text-decoration: none; text-shadow: black; font-weight: bold;}
+footer a:link{text-decoration: none;}
